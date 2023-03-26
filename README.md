@@ -1,8 +1,8 @@
 # NLP_Disaster_Tweets_Project
 
 > This project is submitted to Kaggle as a part of workshop conducted at our college.
-> - We have secured 370th rank in the Kaggle submission at [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview)
-> - We have achieved a score of 0.80110 for the submission.
+> - We have secured `370`th rank in the Kaggle submission at [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview)
+> - We have achieved a score of `0.80110` for the submission.
 
 Thank to the team members for the contributions in the submission.
 - Rajesh Kuchhadia - [Kaggle](https://www.kaggle.com/rajeshkuchhadia) - [GitHub](https://github.com/Rajesh250822)
